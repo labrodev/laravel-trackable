@@ -6,7 +6,7 @@ The ModelHasActorTracker trait provides automatic tracking of the user who creat
 To install the package, run the following command in your Laravel project:
 
 ```bash
-composer require labrodev/trackable
+composer require labrodev/laravel-trackable
 ```
 
 ## Requirements
